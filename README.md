@@ -29,8 +29,8 @@ Mustafa Bawany</a></h1>
 <br/>
 <br/>
 <br/>
-</br>
-
+<br/>
+<br/>
 <!-- TECHNOLOGIES-LIST:START -->
 
 <h3 align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" heigh="25"/> Technologies That I Know </h3>
@@ -44,7 +44,7 @@ Mustafa Bawany</a></h1>
 
 <!-- TECHNOLOGIES-LIST:END -->
 
-</br>
+<br/>
 
 <!-- GITHUB-STATS: START -->
 
@@ -66,6 +66,7 @@ Mustafa Bawany</a></h1>
 
 <!-- GITHUB-STATS: END -->
 
+<br/>
 
 <!-- CONTACT-ME: START -->
 
