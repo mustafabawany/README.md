@@ -2,34 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Mustafa Bawany</a></h1>
-<h3 align="center">Software Engineer</h3>
 
 <!-- INTRODUCTION: END -->
 
-<br>
-
+<br/>
 <!-- ABOUT-ME:START -->
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">Techlogix</a>
-
-- 🌱 I’m currently Working on Mobile App and Web App
-
-- 💬 Ask me about **Software Development**
-
-- 📫 How to reach me **mustafabawany204@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFmSY84FMk/4OGXM5Sh_wwaztNVYWDirQ/view?utm_content=DAFmSY84FMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank">Resume</a>
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;"> 
+	<a href="mailto:mustafabawany204@gmail.com"><img name = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://medium.com/@mustafabawany204"><img name = "Medium" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+	<a href="https://pk.linkedin.com/in/mustafabawany"><img name = "LinkedIn" src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://leetcode.com/u/mustafa-bawany/"><img name = "LeetCode" src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+  </div>
+</p>
 
 <!-- ABOUT-ME:END -->
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <!-- TECHNOLOGIES-LIST:START -->
 
@@ -38,7 +27,7 @@ Mustafa Bawany</a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,c,cpp,cs,css,dotnet,docker,express,fastapi,flask,firebase,github,graphql,html,java,js,linux,mongodb,mysql,nodejs,nginx,postman,py,react,spring,selenium,ts" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,cs,html,css,ts,react,next,fastapi,flask,django,nodejs,express,dotnet,mysql,mongodb,graphql,docker,firebase,postman,selenium,git,azure,linux" />
   </a>
 </p>
 
@@ -54,36 +43,11 @@ Mustafa Bawany</a></h1>
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mustafabawany&theme=dark&show_icons=true&count_private=true" />
-  <br>
-  </br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabawany&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mustafabawany&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafabawany&theme=dark&hide_border=false" /> 
   </td>
 </tr>
 </table>
 
 <!-- GITHUB-STATS: END -->
-
-<br/>
-
-<!-- CONTACT-ME: START -->
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mustafabawany/">
-			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"> </a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mustafabawany">
-		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/21909387/muhammad-mustafa-bawany">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://www.canva.com/design/DAFmSY84FMk/4OGXM5Sh_wwaztNVYWDirQ/view?utm_content=DAFmSY84FMk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-  </div>
-       
-</p>
-
-<!-- CONTACT-ME: END -->
